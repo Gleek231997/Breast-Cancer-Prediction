@@ -52,7 +52,13 @@ streamlit run app.py
 Use the sidebar sliders to input the 5 tumor features.
 Click Predict to see the prediction and probability.
 
-**📊 Output Example**
+## 📊 Output Example
+**Bengin Prediction**
+<img width="1436" height="954" alt="Screenshot 2025-10-17 at 1 51 43 PM" src="https://github.com/user-attachments/assets/9989225a-a7fa-4b66-9b8d-2e2ce274d4a2" />
+
+
+**Malignant Prediction**
+<img width="1436" height="954" alt="Screenshot 2025-10-17 at 1 51 53 PM" src="https://github.com/user-attachments/assets/53454bfb-ee1e-43fa-93d3-49baa88a4ecb" />
 
 
 **🔧 Tech Stack**
