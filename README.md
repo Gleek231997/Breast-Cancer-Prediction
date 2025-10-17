@@ -61,7 +61,7 @@ Click Predict to see the prediction and probability.
 <img width="1436" height="954" alt="Screenshot 2025-10-17 at 1 51 53 PM" src="https://github.com/user-attachments/assets/53454bfb-ee1e-43fa-93d3-49baa88a4ecb" />
 
 
-**🔧 Tech Stack**
+##🔧 Tech Stack
 ```bash
 Python 3.x
 Streamlit – for interactive UI
